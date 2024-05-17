@@ -1,0 +1,51 @@
+#img1 {
+    text-align: end;
+}
+
+img {
+    width: 170px;
+    height: 200px;
+}
+body{
+    font-size: large; 
+    padding: 300px;
+    padding-top: 200px;
+}
+
+
+
+td {
+    text-align: start;
+}
+
+.education {
+    border-collapse: collapse;
+}
+
+.education th,
+.education td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+
+hr {
+    color: black;
+}
+
+div {
+    padding-left: 300px;
+}
+
+
+.personal_info {
+    width: 100%;
+    text-align: center;
+}
+.skill-table td{
+     padding-left: 50px;
+}
+
+#info_ed {
+    height: 50px;
+}
